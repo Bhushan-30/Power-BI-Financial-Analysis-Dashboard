@@ -37,7 +37,7 @@ This Power BI Financial Analysis Dashboard provides an interactive and insightfu
 
 ## 🔗 Connect with Me
 If you found this project useful, **let’s connect!**
-- 🌐 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 📧 Email: your.email@example.com
+- 🌐 [LinkedIn](https://www.linkedin.com/in/-bsdeshmukh/)
+- 📧 Email: bsdeshmukh98@gmail.com
 
 ⭐ **Star this repo** if you like the project!

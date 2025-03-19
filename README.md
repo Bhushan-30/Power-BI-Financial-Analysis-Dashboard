@@ -33,7 +33,7 @@ This Power BI Financial Analysis Dashboard provides an interactive and insightfu
 - Modify the dataset to adapt the dashboard to your business needs.
 
 ## 📷 Screenshots
-![Dashboard Preview](placeholder-for-image)
+![Dashboard Preview](https://github.com/Bhushan-30/Power-BI-Financial-Analysis-Dashboard/blob/main/Financial%20Analysis.png)
 
 ## 🔗 Connect with Me
 If you found this project useful, **let’s connect!**
